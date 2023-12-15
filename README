@@ -1,0 +1,20 @@
+# Road to kernel
+
+This is our attempt to learn how a kernel works by building it. o/
+
+## The team
+
+- Rayan
+- Max1Truc
+
+with help from Daniel
+
+## Plans
+
+- Build something that boots
+- Build a tinyprintf in kernel mode
+- Build a little game in kernel mode
+- ???
+- Build a kernel
+- ???
+- Profit
